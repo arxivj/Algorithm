@@ -1,7 +1,7 @@
 import java.io.*
 import java.util.*
 
-fun main(args: Array<String>) {
+fun main() {
     val io = FastIO()
     val x = io.nextInt()
     val y = io.nextInt()
